@@ -49,7 +49,7 @@ Jupyter Notebook (optional, for interactive exploration)
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 Installation
 Clone the repository:
-git clone https://github.com/your-username/bengaluru-house-price-prediction.git
+git clone https://github.com/rabs-ramii-801/HousePricePrediction.git
 cd bengaluru-house-price-prediction
 
 # Install required libraries:
